@@ -6,7 +6,7 @@
     <div class="main-info">
       <div class="main-info-title">
         <p>The Marriage Of</p>
-        <p>/ 정동현 & 이지은 /</p>
+        <p>/ 김석겸 & 김민정 /</p>
       </div>
       <div class="main-info-location">
         <p>2022년 2월 19일 토요일 오후 3시 30분</p>
